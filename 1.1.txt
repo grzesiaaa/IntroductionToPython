@@ -1,0 +1,8 @@
+>>> #zad1
+>>> 5
+5
+>>> x = 5
+>>> x + 1
+6
+>>> 
+# w np. PyCharm trzeba by dodatkowo użyc print(x+1) aby wyświetliło wynik 6 
